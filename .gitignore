@@ -1,0 +1,6 @@
+# Latex
+Doc/*.aux
+Doc/*.fls
+Doc/*.log
+Doc/*.synctex.gz
+Doc/*.fdb_latexmk 

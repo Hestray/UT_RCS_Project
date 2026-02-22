@@ -4,3 +4,17 @@ Doc/*.fls
 Doc/*.log
 Doc/*.synctex.gz
 Doc/*.fdb_latexmk 
+
+# ROS workspaces
+Tutorials/install/
+Tutorials/build/
+Tutorials/log/
+Tutorials/own_workspace_tutorial/build
+Tutorials/own_workspace_tutorial/install
+Tutorials/own_workspace_tutorial/log
+Tutorials/workspace/build
+Tutorials/workspace/install
+Tutorials/workspace/log
+Tutorials/package_tutorial/build
+Tutorials/package_tutorial/install
+Tutorials/package_tutorial/log

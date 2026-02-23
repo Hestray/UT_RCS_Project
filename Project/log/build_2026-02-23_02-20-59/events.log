@@ -1,0 +1,119 @@
+[0.000000] (-) TimerEvent: {}
+[0.001606] (turtlebot3_waypoints) JobQueued: {'identifier': 'turtlebot3_waypoints', 'dependencies': OrderedDict()}
+[0.005222] (turtlebot3_waypoints) JobStarted: {'identifier': 'turtlebot3_waypoints'}
+[0.098926] (-) TimerEvent: {}
+[0.199747] (-) TimerEvent: {}
+[0.304847] (-) TimerEvent: {}
+[0.407138] (-) TimerEvent: {}
+[0.509589] (-) TimerEvent: {}
+[0.612258] (-) TimerEvent: {}
+[0.717794] (-) TimerEvent: {}
+[0.819412] (-) TimerEvent: {}
+[0.922506] (-) TimerEvent: {}
+[1.026356] (-) TimerEvent: {}
+[1.131883] (-) TimerEvent: {}
+[1.234037] (-) TimerEvent: {}
+[1.337900] (-) TimerEvent: {}
+[1.440731] (-) TimerEvent: {}
+[1.541788] (-) TimerEvent: {}
+[1.643641] (-) TimerEvent: {}
+[1.744635] (-) TimerEvent: {}
+[1.849864] (-) TimerEvent: {}
+[1.957190] (-) TimerEvent: {}
+[2.060534] (-) TimerEvent: {}
+[2.162882] (-) TimerEvent: {}
+[2.266931] (-) TimerEvent: {}
+[2.368764] (-) TimerEvent: {}
+[2.471741] (-) TimerEvent: {}
+[2.572828] (-) TimerEvent: {}
+[2.678315] (-) TimerEvent: {}
+[2.779420] (-) TimerEvent: {}
+[2.881197] (-) TimerEvent: {}
+[2.983566] (-) TimerEvent: {}
+[3.084742] (-) TimerEvent: {}
+[3.189845] (-) TimerEvent: {}
+[3.291484] (-) TimerEvent: {}
+[3.397654] (-) TimerEvent: {}
+[3.499639] (-) TimerEvent: {}
+[3.603541] (-) TimerEvent: {}
+[3.704537] (-) TimerEvent: {}
+[3.806015] (-) TimerEvent: {}
+[3.909626] (-) TimerEvent: {}
+[4.013144] (-) TimerEvent: {}
+[4.114564] (-) TimerEvent: {}
+[4.216523] (-) TimerEvent: {}
+[4.323257] (-) TimerEvent: {}
+[4.429570] (-) TimerEvent: {}
+[4.530469] (-) TimerEvent: {}
+[4.633441] (-) TimerEvent: {}
+[4.734287] (-) TimerEvent: {}
+[4.837666] (-) TimerEvent: {}
+[4.941830] (-) TimerEvent: {}
+[5.045783] (-) TimerEvent: {}
+[5.150547] (-) TimerEvent: {}
+[5.251142] (-) TimerEvent: {}
+[5.356680] (-) TimerEvent: {}
+[5.458349] (-) TimerEvent: {}
+[5.560705] (-) TimerEvent: {}
+[5.664690] (-) TimerEvent: {}
+[5.765759] (-) TimerEvent: {}
+[5.866717] (-) TimerEvent: {}
+[5.968916] (-) TimerEvent: {}
+[6.071598] (-) TimerEvent: {}
+[6.176377] (-) TimerEvent: {}
+[6.277356] (-) TimerEvent: {}
+[6.381071] (-) TimerEvent: {}
+[6.482465] (-) TimerEvent: {}
+[6.586354] (-) TimerEvent: {}
+[6.691613] (-) TimerEvent: {}
+[6.720705] (turtlebot3_waypoints) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/turtlebot3_waypoints', 'build', '--build-base', '/home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/build', 'install', '--record', '/home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/emma/Desktop/RCS Project/Project/src/turtlebot3_waypoints', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'emma', 'LC_TIME': 'ro_RO.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/emma', 'OLDPWD': '/home/emma/Desktop/RCS Project/Project/src', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'ro_RO.UTF-8', 'SYSTEMD_EXEC_PID': '1703', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', '_colcon_cd_root': '/opt/ros/humble/', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/emma/Desktop/RCS Project/Project/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'emma', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'emma', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '1', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/emma-HP-EliteBook-830-G5:@/tmp/.ICE-unix/1507,unix/emma-HP-EliteBook-830-G5:/tmp/.ICE-unix/1507', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'ro_RO.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/c976fbdf_cb09_4fc5_8429_55458f4b8b3c', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'ro_RO.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.OXT4K3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.192', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '3', 'AMENT_PREFIX_PATH': '/home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'ro_RO.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'ro_RO.UTF-8', 'LC_IDENTIFICATION': 'ro_RO.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints', 'TURTLEBOT3_MODEL': 'burger', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints/lib/python3.10/site-packages:/home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'ro_RO.UTF-8', 'LC_PAPER': 'ro_RO.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[6.791872] (-) TimerEvent: {}
+[6.894434] (-) TimerEvent: {}
+[6.995749] (-) TimerEvent: {}
+[7.099456] (-) TimerEvent: {}
+[7.203284] (-) TimerEvent: {}
+[7.305442] (-) TimerEvent: {}
+[7.408669] (-) TimerEvent: {}
+[7.511893] (-) TimerEvent: {}
+[7.612836] (-) TimerEvent: {}
+[7.715880] (-) TimerEvent: {}
+[7.817820] (-) TimerEvent: {}
+[7.919057] (-) TimerEvent: {}
+[8.023271] (-) TimerEvent: {}
+[8.129995] (-) TimerEvent: {}
+[8.231207] (-) TimerEvent: {}
+[8.337375] (-) TimerEvent: {}
+[8.444660] (-) TimerEvent: {}
+[8.546544] (-) TimerEvent: {}
+[8.647467] (-) TimerEvent: {}
+[8.748820] (-) TimerEvent: {}
+[8.854483] (-) TimerEvent: {}
+[8.955354] (-) TimerEvent: {}
+[9.000904] (turtlebot3_waypoints) StdoutLine: {'line': b'running egg_info\n'}
+[9.003822] (turtlebot3_waypoints) StdoutLine: {'line': b'writing ../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/PKG-INFO\n'}
+[9.010771] (turtlebot3_waypoints) StdoutLine: {'line': b'writing dependency_links to ../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/dependency_links.txt\n'}
+[9.011903] (turtlebot3_waypoints) StdoutLine: {'line': b'writing entry points to ../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/entry_points.txt\n'}
+[9.013938] (turtlebot3_waypoints) StdoutLine: {'line': b'writing requirements to ../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/requires.txt\n'}
+[9.015794] (turtlebot3_waypoints) StdoutLine: {'line': b'writing top-level names to ../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/top_level.txt\n'}
+[9.032460] (turtlebot3_waypoints) StdoutLine: {'line': b"reading manifest file '../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/SOURCES.txt'\n"}
+[9.037122] (turtlebot3_waypoints) StdoutLine: {'line': b"writing manifest file '../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/SOURCES.txt'\n"}
+[9.039258] (turtlebot3_waypoints) StdoutLine: {'line': b'running build\n'}
+[9.039876] (turtlebot3_waypoints) StdoutLine: {'line': b'running build_py\n'}
+[9.042936] (turtlebot3_waypoints) StdoutLine: {'line': b'running install\n'}
+[9.045082] (turtlebot3_waypoints) StdoutLine: {'line': b'running install_lib\n'}
+[9.058069] (turtlebot3_waypoints) StdoutLine: {'line': b'running install_data\n'}
+[9.064554] (-) TimerEvent: {}
+[9.069440] (turtlebot3_waypoints) StdoutLine: {'line': b'running install_egg_info\n'}
+[9.096541] (turtlebot3_waypoints) StdoutLine: {'line': b"removing '/home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints/lib/python3.10/site-packages/turtlebot3_waypoints-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[9.096968] (turtlebot3_waypoints) StdoutLine: {'line': b'Copying ../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info to /home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints/lib/python3.10/site-packages/turtlebot3_waypoints-0.0.0-py3.10.egg-info\n'}
+[9.101330] (turtlebot3_waypoints) StdoutLine: {'line': b'running install_scripts\n'}
+[9.165982] (-) TimerEvent: {}
+[9.244501] (turtlebot3_waypoints) StdoutLine: {'line': b'Installing waypoint_nav script to /home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints/lib/turtlebot3_waypoints\n'}
+[9.246430] (turtlebot3_waypoints) StdoutLine: {'line': b"writing list of installed files to '/home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/install.log'\n"}
+[9.266134] (-) TimerEvent: {}
+[9.367957] (-) TimerEvent: {}
+[9.458873] (turtlebot3_waypoints) CommandEnded: {'returncode': 0}
+[9.468473] (-) TimerEvent: {}
+[9.577519] (-) TimerEvent: {}
+[9.582018] (turtlebot3_waypoints) JobEnded: {'identifier': 'turtlebot3_waypoints', 'rc': 0}
+[9.584118] (-) EventReactorShutdown: {}

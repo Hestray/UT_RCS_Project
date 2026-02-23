@@ -1,0 +1,3 @@
+[console_scripts]
+waypoint_nav = turtlebot3_waypoints.waypoint_nav:main
+

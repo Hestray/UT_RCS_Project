@@ -1,0 +1,24 @@
+[5.180s] Invoking command in '/home/emma/Desktop/RCS Project/Project/src/turtlebot3_waypoints': PYTHONPATH=/home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_waypoints build --build-base /home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/build install --record /home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/install.log --single-version-externally-managed install_data
+[6.776s] running egg_info
+[6.777s] writing ../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/PKG-INFO
+[6.778s] writing dependency_links to ../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/dependency_links.txt
+[6.778s] writing entry points to ../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/entry_points.txt
+[6.778s] writing requirements to ../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/requires.txt
+[6.778s] writing top-level names to ../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/top_level.txt
+[6.781s] reading manifest file '../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/SOURCES.txt'
+[6.782s] writing manifest file '../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info/SOURCES.txt'
+[6.782s] running build
+[6.782s] running build_py
+[6.782s] copying turtlebot3_waypoints/waypoint_nav.py -> /home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/build/lib/turtlebot3_waypoints
+[6.783s] running install
+[6.783s] running install_lib
+[6.784s] copying /home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/build/lib/turtlebot3_waypoints/waypoint_nav.py -> /home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints/lib/python3.10/site-packages/turtlebot3_waypoints
+[6.785s] byte-compiling /home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints/lib/python3.10/site-packages/turtlebot3_waypoints/waypoint_nav.py to waypoint_nav.cpython-310.pyc
+[6.786s] running install_data
+[6.787s] running install_egg_info
+[6.790s] removing '/home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints/lib/python3.10/site-packages/turtlebot3_waypoints-0.0.0-py3.10.egg-info' (and everything under it)
+[6.791s] Copying ../../build/turtlebot3_waypoints/turtlebot3_waypoints.egg-info to /home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints/lib/python3.10/site-packages/turtlebot3_waypoints-0.0.0-py3.10.egg-info
+[6.791s] running install_scripts
+[6.812s] Installing waypoint_nav script to /home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints/lib/turtlebot3_waypoints
+[6.812s] writing list of installed files to '/home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/install.log'
+[6.837s] Invoked command in '/home/emma/Desktop/RCS Project/Project/src/turtlebot3_waypoints' returned '0': PYTHONPATH=/home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/emma/Desktop/RCS Project/Project/install/turtlebot3_waypoints/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_waypoints build --build-base /home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/build install --record /home/emma/Desktop/RCS Project/Project/build/turtlebot3_waypoints/install.log --single-version-externally-managed install_data
